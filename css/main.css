@@ -2549,7 +2549,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(i.postimg.cc/G3sJ6XDM/unnamed.jpg) right;
+  background: url('i.postimg.cc/G3sJ6XDM/unnamed.jpg') right;
   background-size: 50px 
 	 cover;
 }
